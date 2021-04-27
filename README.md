@@ -16,7 +16,7 @@ and other issues with a number of mods.
 ---
 
 
-##Fork note
+## Fork note
 
 I (Oakleafknight06) made this fork to try to merge other forks of Sodium together to get Sodium to be compatible with some other mods. I may do more with this fork later, hopefully it will become deprecated soon when Sodium updates.
 
